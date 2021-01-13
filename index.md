@@ -1,10 +1,9 @@
 # KingiliDevelops!
 ---
-This is where I post updates on things I develop!
 ## Projects!
 
-[Pikabot](https://github.com/Kingili22/pikabot) 
-AG Bot
+- [Pikabot](https://github.com/Kingili22/pikabot) 
+- AG Bot
 ---
 ## Languages I Know
 -I know a bit of Python and Javascript
