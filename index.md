@@ -6,5 +6,5 @@
 - AG Bot
 ---
 ## Languages I Know
--I know a bit of Python and Javascript
--I make Discord bots using Discord.js and NodeJS
+- I know a bit of Python and Javascript
+- I make Discord bots using Discord.js and NodeJS
