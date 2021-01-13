@@ -2,10 +2,9 @@
 ---
 This is where I post updates on things I develop!
 ## Projects!
--[Pikabot](https://github.com/Kingili22/pikabot)
-The first bot I ever made!
--AG Bot
-A for a private discord with my friends
+
+[Pikabot](https://github.com/Kingili22/pikabot) 
+AG Bot
 ---
 ## Languages I Know
 -I know a bit of Python and Javascript
