@@ -1,2 +1,2 @@
 # Kingilidev
-This is where i post updates on my projects!
+This is where I post updates on my projects!
