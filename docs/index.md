@@ -1,1 +1,2 @@
-[rawr x3 nuzzles](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+# Kingili Develops!
+This is a website focused on development done by Kingili22
