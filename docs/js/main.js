@@ -1,2 +1,2 @@
 const myHeading = document.querySelector('h1');
-myHeading.textContent = 'Mental Health Hotlines';
+myHeading.textContent = 'Mental Health Resources';
