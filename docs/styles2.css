@@ -3,3 +3,7 @@ h1 {
   font-family: calibri;
   font-size: 250%;
 }
+body {
+  background-color: lightgrey;
+  color: black;
+}
