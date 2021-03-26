@@ -1,9 +1,19 @@
 h1 {
   color: black;
   font-family: calibri;
-  font-size: 100%;
+  font-size: 250%;
 }
 body {
   background-color: rgb(46, 186, 196);
   color: black;
+}
+p {
+  color: black;
+  font-family: calibri;
+  font-size: 150%;
+}
+h2 {
+  color: black;
+  font-family: calibri;
+  font-size: 100%;
 }
