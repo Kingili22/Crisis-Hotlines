@@ -1,19 +1,30 @@
-h1 {
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 250%;
+body {
+  background-color:rgb(176,196,222);
+  color: black;
+}
+p {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
+}
+h2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+}
+h1, body{
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  width: 100%;
+  background: #42455a;
+}
+.menu ul {
+  display: inline-flex;
+  margin: 50px;
   }
-  body {
-    background-color:rgb(176,196,222);
-    color: black;
-  }
-  p {
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 150%;
-  }
-  h2 {
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
+.menu ul li {
+    list-style: none;
+    margin: 0 20px;
+    color: #b2b1b1;
+    cursor: pointer;
   }
