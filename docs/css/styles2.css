@@ -65,3 +65,8 @@ h1, body{
   width: 50%;
   float: right;
 }
+.app-picture img{
+  width: 5%;
+  margin-top: -20px;
+  padding-left: 50px;
+}
