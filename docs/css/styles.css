@@ -18,16 +18,21 @@ h1, body{
   width: 100%;
   background: #42455a;
 }
+.menu {
+  background-color: #fff;
+}
 .menu ul {
   display: inline-flex;
   margin: 50px;
   
   }
+
 .menu ul li {
     list-style: none;
     margin: 0 20px;
     color: #b2b1b1;
     cursor: pointer;
+    text-decoration: none;
   }
 .logo img {
   width: 75px;
