@@ -33,3 +33,6 @@ h1, body{
   margin-top: -7px;
   margin-right: 48px;
 }
+.active { 
+  color: #19dafa;
+}
