@@ -61,3 +61,7 @@ h1, body{
   line-height: 25px;
   color: #919191
 }
+.app-picture {
+  width: 50%;
+  float: right;
+}
