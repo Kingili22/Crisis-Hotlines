@@ -4,16 +4,16 @@ body {
 }
 p {
   color: black;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
   font-size: 150%;
 }
 h2 {
   color: black;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
   font-size: 100%;
 }
 h1, body{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
   height: 100%;
   width: 100%;
   background: #42455a;
@@ -21,6 +21,7 @@ h1, body{
 .menu ul {
   display: inline-flex;
   margin: 50px;
+  
   }
 .menu ul li {
     list-style: none;
@@ -28,3 +29,53 @@ h1, body{
     color: #b2b1b1;
     cursor: pointer;
   }
+.logo img {
+  width: 75px;
+  margin-top: -7px;
+  margin-right: 24px;
+}
+.active li { 
+  color: #19dafa;
+}
+.banner {
+  width: 80%;
+  height: 70%;
+  top: 25%;
+  left: 130px;
+  position: absolute;
+  color: white;
+}
+.app-text {
+  width: 50%;
+  float: left;
+}
+.app-text h1 {
+  font-size: 43px;
+  width: 640px;
+  position:relative;
+  margin-left: 40px;
+}
+.app-text p{
+  width: 650px;
+  font-size: 15px;
+  margin: 30px 0 30px 40px;
+  line-height: 25px;
+  color: #919191
+}
+.app-picture {
+  width: 50%;
+  float: right;
+}
+.app-picture img{
+  width: 5%;
+  margin-top: -20px;
+  padding-left: 50px;
+}
+.play-btn {
+  margin-left: 40px;
+  display: inline-flex;
+}
+.play-btn-inner {
+  height: 50px;
+  width: 50px;
+}

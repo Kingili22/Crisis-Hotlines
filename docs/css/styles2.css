@@ -21,6 +21,7 @@ h1, body{
 .menu ul {
   display: inline-flex;
   margin: 50px;
+  
   }
 .menu ul li {
     list-style: none;
@@ -69,4 +70,12 @@ h1, body{
   width: 5%;
   margin-top: -20px;
   padding-left: 50px;
+}
+.play-btn {
+  margin-left: 40px;
+  display: inline-flex;
+}
+.play-btn-inner {
+  height: 50px;
+  width: 50px;
 }
