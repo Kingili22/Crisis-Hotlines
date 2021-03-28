@@ -44,3 +44,20 @@ h1, body{
   position: absolute;
   color: white;
 }
+.app-text{
+  width: 50%;
+  float: left;
+}
+.app-text h1 {
+  font-size: 43px;
+  width: 640px;
+  position:relative;
+  margin-left: 40px;
+}
+.app-text p{
+  width: 650px;
+  font-size: 15px;
+  margin: 30px 0 30px 40px;
+  line-height: 25px;
+  color: #919191
+}

@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="css/styles2.css">
-</head>
-</html>
-<body>
-  <div class = "menu">
-    <ul>
-      <li class = "logo"></liclass> <img src="logo.png"></li>
-      <li class = "active">Home</li>
-      <li>Resources</li>
-      <li>About Me</li>
-      <li>How To Contribute</li>
-    </ul>
-  </div>
-  <div>
-  <div class = "banner"></div>
-    <div class = "app-text">
-      <h1>Mental Health Resources</h1>
-      <p>If you are struggling with thoughts of suicide or if another user is in immediate physical danger of harming themselves, please contact a suicide hotline or law enforcement immediately.</p>
-    </div>
-  </div>
 <h2 id="suicide-prevention">Suicide Prevention</h2> 
 <a href="html/SuicideHotline.html">Suicide Prevention Sources</a>
 <h2 id="outside-the-u-s-find-a-supportive-resources-">Outside the U.S: Find a supportive resources.</h2>
@@ -70,4 +47,3 @@
 <h4>Made by https://github.com/Kingili22</h4>
 <h4>Message Kingili#8666 on Discord for any issues or bugs</46>
 <h4>You can contribute on the<a href="https://www.thetrevorproject.org/get-help-now/"> Repository</a></h4>
-</body>
