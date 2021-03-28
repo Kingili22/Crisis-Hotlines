@@ -31,7 +31,7 @@ h1, body{
 .logo img {
   width: 50px;
   margin-top: -7px;
-  margin-right: 48px;
+  margin-right: 0px;
 }
 .active li { 
   color: #19dafa;
